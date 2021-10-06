@@ -5,13 +5,16 @@
   "private": true,
   "dependencies": {
     "@nativescript/core": "~8.1.1",
+    "@nota/nativescript-webview-ext": "^8.0.0",
     "@react-navigation/core": "^5.15.3",
+    "@tomtom-international/web-sdk-services": "^5.69.1",
     "react": "~16.13.1",
     "react-nativescript": "^3.0.0-beta.1",
     "react-nativescript-navigation": "3.0.0-beta.2",
     "react-refresh": "~0.8.3"
   },
   "devDependencies": {
+    "@nativescript/android": "8.1.1",
     "@nativescript/types": "~8.1.1",
     "@nativescript/webpack": "~5.0.0",
     "@pmmmwh/react-refresh-webpack-plugin": "~0.4.0-beta.5",
